@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Hugs & Kisses",
+  "base_artist": "JISOO",
+  "createdAt": "2025-12-27T14:53:44.570835Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hugs",
+      "artist": "The Lonely Island feat. Pharrell Williams",
+      "has_synced": true,
+      "path": "select/01_Hugs_The_Lonely_Island_feat._Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hugs",
+      "artist": "The Lonely Island",
+      "has_synced": true,
+      "path": "select/02_Hugs_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Hugs No Kisses",
+      "artist": "MOZGI",
+      "has_synced": true,
+      "path": "select/03_No_Hugs_No_Kisses_MOZGI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Smothered In Hugs",
+      "artist": "Guided By Voices",
+      "has_synced": true,
+      "path": "select/04_Smothered_In_Hugs_Guided_By_Voices.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hugs (Feat. Pharrell Williams)",
+      "artist": "The Lonely Island",
+      "has_synced": true,
+      "path": "select/05_Hugs_(Feat._Pharrell_Williams)_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hugs and Needles",
+      "artist": "L.A. Guns",
+      "has_synced": false,
+      "path": "select/06_Hugs_and_Needles_L.A._Guns.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "X's And O's (Kisses And Hugs)",
+      "artist": "David Allan Coe",
+      "has_synced": true,
+      "path": "select/07_X's_And_O's_(Kisses_And_Hugs)_David_Allan_Coe.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "X's and O's (Kisses and Hugs)",
+      "artist": "David Allen Coe",
+      "has_synced": true,
+      "path": "select/08_X's_and_O's_(Kisses_and_Hugs)_David_Allen_Coe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hugs From Boys",
+      "artist": "Braid",
+      "has_synced": false,
+      "path": "select/09_Hugs_From_Boys_Braid.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hugs (ft. Pharrell Williams)",
+      "artist": "The Lonely Island",
+      "has_synced": true,
+      "path": "select/10_Hugs_(ft._Pharrell_Williams)_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Four Hugs A Day",
+      "artist": "Charlotte Diamond",
+      "has_synced": false,
+      "path": "select/11_Four_Hugs_A_Day_Charlotte_Diamond.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Warm Hugs in Court V2",
+      "artist": "Kubbi",
+      "has_synced": false,
+      "path": "select/12_Warm_Hugs_in_Court_V2_Kubbi.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "XOXO (Kisses & Hugs) - [Live]",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/13_XOXO_(Kisses_&_Hugs)_-_[Live]_EXO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hugs & Kisses",
+      "artist": "JISOO",
+      "has_synced": false,
+      "path": "select/pl_01_Hugs_&_Kisses_JISOO.txt"
+    }
+  ]
+}
